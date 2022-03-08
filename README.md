@@ -6,4 +6,6 @@
 
 - [Create a SQL database](https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/exercise-create-sql-database)
 
+- [Explore Azure Storage](https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-non-relational-data-services-azure/6-exercise-azure-storage)
+
 - More here...

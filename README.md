@@ -10,8 +10,7 @@
 | 6  | Exercise      | Explore Azure Cosmos DB     | 3 hr 59 min | [click here](https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/4-exercise-explore-cosmos-db) |
 | 7  | Exercise      | Analyze streaming data     | 59 min | [click here](https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-stream-processing/5-exercise-stream-analytics) |
 | 8  | Exercise      | Run queries using Data Explorer     | 3 hr 59 min | [click here](https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/5-run-queries) |
-| 9  | Exercise      | Analyze streaming data     | 59 min | [click here](https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-stream-processing/5-exercise-stream-analytics) |
-| 10  | Lab          | Design a report in Power BI desktop     | 1 hr 59 min | [click here](https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/8-lab) |
+| 9  | Lab          | Design a report in Power BI desktop     | 1 hr 59 min | [click here](https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/8-lab) |
+| 10  | Lab          | Migrate existing data using Azure Data Factory     | 59 min | [click here](https://learn.microsoft.com/en-us/training/modules/move-data-azure-cosmos-db-sql-api/6-exercise-migrate-existing-data-using-azure-data-factory) |
 | 11  | Coming    | soon     | ... | ... |
 | 12  | Coming    | soon     | ... | ... |
-
